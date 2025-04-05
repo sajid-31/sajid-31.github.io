@@ -1,0 +1,10 @@
+title: Sajid Mohammed
+description: Computer Science Student | Tech Enthusiast
+theme: minima
+author: Sajid Mohammed
+email: sajidm310@gmail.com
+github_username: sajid-31
+
+# Optional
+plugins:
+  - jekyll-seo-tag
